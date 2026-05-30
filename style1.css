@@ -1,0 +1,112 @@
+
+.head{
+
+display: flex;
+
+justify-content: space-around;
+
+height: 55px;
+}
+
+.f{
+
+margin-top: 15px;
+}
+.f h3{
+
+display: inline;
+}
+.f i{
+    
+margin-right: 6px;
+}
+.s{
+
+margin-top: 15px;
+}
+.s a{
+    
+margin-right: 55px;
+    
+text-decoration: 0;
+    
+color: black;
+}
+.s a:hover{
+    text-decoration: underline rgb(16, 207, 194);
+    color:rgb(16, 207, 194);
+}
+.body{
+
+display: flex;
+}
+.left{
+
+margin-top: 100px;
+
+margin-left: 100px;
+}
+.firstname{
+display: inline;
+font-family: system-ui;
+
+font-size: 35px;
+}
+.surname{display: inline;font-family: system-ui;font-size: 35px;color: chocolate;}
+.left h3{
+
+font-family: system-ui;
+
+color: darkgreen;
+}
+.left button{
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+}
+.left button:hover{
+    background-color: burlywood;
+}
+.left button a{
+    color: white;
+    display: inline;
+}
+.left button i{
+    margin-left: 5px;
+    color: white;
+}
+.icons{
+
+margin-top: 20px;
+}
+.icons i{
+    
+font-size: 35px;
+}
+.icons i:hover{
+    color: rgb(39, 176, 174);
+}
+.icons a{
+    color: black;
+}
+
+.right{
+
+}
+.right img{
+
+margin: 90px 0px 0px 410px;
+
+height: 300px;
+
+border: solid;
+
+border-radius: 73px;
+}
+
+
+
+
+
+
+
